@@ -1,5 +1,5 @@
 # filmWebsiteProject
-This my first project in which I used some JavaScript works.
+This is my first project in which I used some JavaScript works.
 
 Html-Css and JavaScript were used.
 
